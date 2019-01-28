@@ -1,0 +1,23 @@
+{
+  "name": "capgovnet",
+  "version": "1.0.0",
+  "description": "Serviço para analisar se o servidor do capgov/ufrj está online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandoju/CapgovNet.git"
+  },
+  "author": "Jorge Rama Krsna Mandoju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandoju/CapgovNet/issues"
+  },
+  "homepage": "https://github.com/mandoju/CapgovNet#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ping": "^0.2.2"
+  }
+}
